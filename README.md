@@ -100,28 +100,28 @@ The data from this file is used when calling the **/contacts** command, the comm
 
 ## Screenshots
 ###### Authorization
-![Authorization](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/auth.png?raw=true "Authorization")
+![Authorization](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/auth.png?raw=true "Authorization")
 ###### Interface
-![Interface](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/interface.png?raw=true "Authorization")
+![Interface](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/interface.png?raw=true "Authorization")
 ###### Sharing Songs
-![Sharing songs](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/inline%20song%20sharing.png?raw=true "Sharing songs")
+![Sharing songs](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/inline%20song%20sharing.png?raw=true "Sharing songs")
 ###### Songs Searching
-![Songs Searching](https://raw.githubusercontent.com/Koteyk0o/Jarvis-Musical-Bot/master/screenshots/inline%20search.png "Songs Searching")
+![Songs Searching](https://raw.githubusercontent.com/whoisnotthere/Jarvis-Musical-Bot/master/screenshots/inline%20search.png "Songs Searching")
 ###### Sharing Context (Album, Artist, Playlist)
-![Sharing context](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/inline%20context%20sharing.png?raw=true "Sharing context")
+![Sharing context](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/inline%20context%20sharing.png?raw=true "Sharing context")
 ###### Language changing
-![Language Changing](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/language%20select.png?raw=true "Language changing")
+![Language Changing](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/language%20select.png?raw=true "Language changing")
 ###### Super Shuffle
-![Super Shuffle](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/super%20shuffle.png?raw=true "Super Shuffle")
+![Super Shuffle](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/super%20shuffle.png?raw=true "Super Shuffle")
 ###### Top Artists List
-![Top Artists](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/top%20artists%20display.png?raw=true "Top Artists")
+![Top Artists](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/top%20artists%20display.png?raw=true "Top Artists")
 ###### Top Tracks List
-![Top Tracks List](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/top%20tracks%20display.png?raw=true "Top Tracks List")
+![Top Tracks List](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/top%20tracks%20display.png?raw=true "Top Tracks List")
 ###### Top Tracks Playlist
-![Top Tracks Playlist](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/top%20tracks%20playlist.png?raw=true "Top Tracks Playlist")
+![Top Tracks Playlist](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/top%20tracks%20playlist.png?raw=true "Top Tracks Playlist")
 ###### Music Quiz
-![Music Quiz](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/music%20quiz.png?raw=true "Music Quiz")
+![Music Quiz](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/music%20quiz.png?raw=true "Music Quiz")
 ###### Blocked Songs
-![Blocked Songs](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/blocked_Tracks.png?raw=true "Blocked Songs")
+![Blocked Songs](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/blocked_Tracks.png?raw=true "Blocked Songs")
 ###### Library statistics
-![Library statistics](https://github.com/Koteyk0o/Jarvis-Musical-Bot/blob/master/screenshots/library%20statistics.png?raw=true "Library statistics")
+![Library statistics](https://github.com/whoisnotthere/Jarvis-Musical-Bot/blob/master/screenshots/library%20statistics.png?raw=true "Library statistics")
